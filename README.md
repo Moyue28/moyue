@@ -18,11 +18,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 地区：{{region.DATA}} 
 
-天气：{{weather.DATA}} 
-
-最低气温: {{min_temperature.DATA}}
-
-最高气温: {{max_temperature.DATA}}  
+天气：{{weather.DATA}}  
 
 风向：{{wind_dir.DATA}} 
 
